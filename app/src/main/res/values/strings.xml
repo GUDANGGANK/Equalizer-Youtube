@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Horeg EQ</string>
+    <string name="notification_title">Horeg EQ Audio Engine Aktif</string>
+    <string name="notification_desc">Equalizer aktif untuk YouTube &amp; TWS Bluetooth</string>
+    <string name="channel_a">CHANNEL A (LEFT)</string>
+    <string name="channel_b">CHANNEL B (RIGHT)</string>
+    <string name="sub_bass_60hz">60Hz SUB HOREG</string>
+    <string name="gain_boost">GAIN PRE-AMP</string>
+    <string name="mid_high_berasa">MID-HIGH CLARITY</string>
+    <string name="low_latency_tws">ANTI-DELAY TWS</string>
+    <string name="btn_open_youtube">Buka YouTube</string>
+    <string name="status_connected_bt">TWS Bluetooth Terhubung</string>
+    <string name="status_system_audio">Audio Sistem Aktif</string>
+</resources>

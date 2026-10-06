@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MyApplication" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/rack_dark_background</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:colorMode" tools:targetApi="o">default</item>
+    </style>
+</resources>

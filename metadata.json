@@ -1,0 +1,6 @@
+{
+  "name": "Horeg EQ",
+  "description": "Dual-Channel Studio Equalizer with 60Hz Horeg Sub-Bass, Gain Pre-amp, Bluetooth TWS zero-delay optimization, and YouTube support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
